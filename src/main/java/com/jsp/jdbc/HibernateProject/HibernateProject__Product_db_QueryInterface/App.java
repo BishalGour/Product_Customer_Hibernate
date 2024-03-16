@@ -25,5 +25,6 @@ public class App
       CompanyService.deleteCompanyByCompanyType();
       
       Product p = new Product();
+      //add your product functionality here
     }
 }
