@@ -24,5 +24,6 @@ public class App
       CompanyService.deleteCompanyByName();
       CompanyService.deleteCompanyByCompanyType();
       
+      Product p = new Product();
     }
 }
